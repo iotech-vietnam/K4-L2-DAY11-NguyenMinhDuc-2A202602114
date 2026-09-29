@@ -3,13 +3,14 @@
 ## 1. Thông tin nhóm
 - Khóa/lớp: K4
 - Tên nhóm: Nhom00
-- Repo Public: https://github.com/banglc-vinaiinaction/K4-DAY11-Nhom00
+- Repo Public: https://github.com/iotech-vietnam/K4-L2-DAY11-NguyenMinhDuc-2A202602114
+- Repo nhóm tham chiếu: https://github.com/banglc-vinaiinaction/K4-DAY11-Nhom00
 - Máy giữ hồ sơ chính / người quản lý: Lê Chí Bằng
 - Slice chung lấy từ mode.json: B2-mid
 - Tên định danh vai A dùng cho --self: bang
 - Kênh trao đổi nội bộ: Discord, Zalo
-- Đại diện nộp (vai C): Lê Chí Bằng (2A202602215), Nguyễn Minh Đức (2A202602114)
-- Commit chốt bài: [Cập nhật sau khi commit chốt]
+- Đại diện nộp (vai C): Nguyễn Minh Đức (2A202602114), Lê Chí Bằng (2A202602215)
+- Commit chốt bài: 0db7982
 
 ## 2. Ba vai chính
 | Vai | Họ và tên | MSSV | Tên định danh trong mode | Trách nhiệm | Bằng chứng đóng góp |
