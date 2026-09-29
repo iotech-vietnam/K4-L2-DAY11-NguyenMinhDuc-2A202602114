@@ -1,0 +1,15 @@
+{
+  "members": [
+    "bang",
+    "duc",
+    "my"
+  ],
+  "assignments": {
+    "bang": "B2-mid",
+    "duc": "B3-center",
+    "my": "B1-mid"
+  },
+  "self": "bang",
+  "slice": "B2-mid",
+  "degrade": []
+}
